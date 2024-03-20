@@ -34,7 +34,7 @@ function App() {
 			</div>
 			<h1 className="text-5xl font-bold p-4">Vite + React + Tailwind CSS</h1>
 			<div className="p-4">
-				<button className="mb-8" onClick={() => setCount((count) => count + 1)}>
+				<button className="mb-8 rounded border-transparent border-2 cursor-pointer font-[inherit] text-lg p-[0.6em_1.2em] bg-[#1a1a1a]" onClick={() => setCount((count) => count + 1)}>
 					count is {count}
 				</button>
 				<p>
