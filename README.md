@@ -2,9 +2,23 @@
 
 ![Preview image](cover.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
 
-Currently, two official plugins are available:
+This is a Vite template that contains the minimal setup to make websites and web applications using **React** and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Uses SWC for the Fast Refresh
+- All the logos are in SVG format to minimize bundle size
+- Tailwind ready to use
+- 🌙 Light/Dark mode toggle
+- 100% responsive
+
+## Commands
+
+| Command | Action |
+| :------ | :----- |
+| `npm/yarn/pnpm/bun install` | Install dependencies |
+| `npm/yarn/pnpm/bun dev` | Start the development environment at `localhost:5173` |
+| `npm/yarn/pnpm/bun build` | Build the production version |
+| `npm/yarn/pnpm/bun preview` | Start the production environment at `localhost:4173` before deployment |
