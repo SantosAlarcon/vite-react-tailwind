@@ -8,11 +8,29 @@ This is a Vite template that contains the minimal setup to make websites and web
 
 ## Features
 
-- Uses SWC for the Fast Refresh
-- All the logos are in SVG format to minimize bundle size
-- Tailwind ready to use
+- 📦 Works with **React** and **Tailwind** out of the box
+- ⚙️ Uses SWC for the Fast Refresh
+- ⚛️ All the logos are in SVG format to minimize bundle size
 - 🌙 Light/Dark mode toggle
-- 100% responsive
+- 📱100% responsive
+
+## Quick Setup
+
+```bash
+# clone the project
+git clone https://github.com/SantosAlarcon/vite-react-tailwind [name of the directory]
+
+# enter the project directory
+cd [name of the project directory]
+
+# install the dependencies
+npm/yarn/pnpm/bun install
+
+# start the development environment
+npm/yarn/pnpm/bun dev
+```
+
+... And start coding!!! ⌨️
 
 ## Commands
 
